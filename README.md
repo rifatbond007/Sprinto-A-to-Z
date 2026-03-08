@@ -1,11 +1,11 @@
 
-<h1 align="center" style="background-color: white; padding: 20px;">
-  <img src="https://sprinto.com/wp-content/uploads/2025/11/sprinto-site-logo-dark.png" alt="Sprinto Logo" />
-</h1>
-
 <p align="center">
-  <strong>Automated Security & Compliance for Modern SaaS</strong>
+  <img src="https://sprinto.com/wp-content/uploads/2025/11/sprinto-site-logo-dark.png" alt="Sprinto Logo" width="340" style="background:white; padding:16px; border-radius:8px;" />
 </p>
+
+<h2 align="center">
+  <strong>Automated Security & Compliance for Modern SaaS</strong>
+</h2>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/SOC2-Certified-green?style=flat-square" /></a>
