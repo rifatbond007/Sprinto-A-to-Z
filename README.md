@@ -47,6 +47,20 @@
 
 ---
 
+## 🏗️ Platform Architecture
+
+![Sprinto Architecture](./sprinto2.png)
+
+---
+
+
+## 🏗️ Sprinto Core Parts
+
+![Sprinto Architecture](./sprinto_arc.png)
+
+---
+
+
 ## 🗂️ Folder Structure
 
 ```
